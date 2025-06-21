@@ -18,8 +18,8 @@ print(df.head())
 
 
 #data preprocessing
+print(df.shape)
 df.dropna(inplace=True)
-df.drop_duplicates(inplace=True)
 
 #features and target
 X = df['text']  #text is th mail content 
@@ -67,4 +67,5 @@ print(predict_email('Congrats! you won a lottery. Click here to claim award.'))
 
 print(predict_email('HI, the class will be at 8 pm tomorrow'))
 
-print(df.shape)
+
+
