@@ -4,7 +4,7 @@ This project uses a Machine Learning model to classify emails as **Spam (1)** or
 
 ---
 
-## 📚 Libraries Used
+## 📚 Libraries Used:
 
 - `pandas`
 - `numpy`
@@ -13,7 +13,7 @@ This project uses a Machine Learning model to classify emails as **Spam (1)** or
 
 ---
 
-## ✅ Features
+## ✅ Features:
 
 - Text preprocessing using **TF-IDF**
 - Train-test split
