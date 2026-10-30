@@ -1,4 +1,4 @@
- ## visit -> checkifspam.streamlit.app
+ ## visit -> [WEB APP](checkifspam.streamlit.app)
  
  # Spam Email Detection using Logistic Regression
 
